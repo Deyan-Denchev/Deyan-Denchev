@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deyan-Denchev and I am currently a L2 senior tehcnical support in a SaaS company.
+- 👋 Hi, I’m @Deyan-Denchev and I am currently a L2 senior technical support in a SaaS company.
 - 👀 I’m interested in becoming a Backend Engineer 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me deyandenchev88@gmail.com
